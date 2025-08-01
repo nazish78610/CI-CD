@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+  <body style="background-color: lightblue; text-align: center;">
+    <h1 style="color: red;">Welcome!</h1>
+    <p style="color: green;">This is a colorful page.</p>
+  </body>
+</html>
